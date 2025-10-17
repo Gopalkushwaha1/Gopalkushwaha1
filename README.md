@@ -1,4 +1,4 @@
-👋 About Me
+<h2 style="color:#ff9800;">👋 About Me</h2>
 
 <!-- Profile Header -->
 <h1 align="center">🚀 <span style="color:#4CAF50;">Gopal Kushwaha</span> 🚀</h1>
@@ -32,7 +32,7 @@ Built a Health Diabetes Prediction Model and a custom Linear Regression model fr
 
 🤝 Collaborations, internships, and innovative problem-solving
 
-🚀 Featured Projects
+<h2 style="color:#3f51b5;">🚀 Featured Projects</h2>
 
 Below are a few of my highlighted projects. Click the repo names to explore — each repo includes a README with examples and setup instructions.
 
@@ -48,7 +48,7 @@ Leetcode — Java solutions for common interview problems.
 
 Tip: Pin the repos above on your GitHub profile so they show immediately to visitors.
 
-🛠️ Tech Stack
+<h2 style="color:#009688;">🛠 Tech Stack</h2>
 
 Languages: Python, Java
 
@@ -57,7 +57,7 @@ ML/NLP: Numpy , Pandas , Machine Learning, Hugging Face ,Scikit-learn
 Tools: Git, Github,  Streamlit, Jupyter Notebooks
 
 
-📫 Reach Me
+<h2 style="color:#e91e63;">📫 Reach Me</h2>
 
 Email: kushwahagopal2003@example.com
 

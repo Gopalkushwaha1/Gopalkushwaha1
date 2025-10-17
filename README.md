@@ -1,5 +1,11 @@
 👋 About Me
 
+<!-- Profile Header -->
+<h1 align="center">🚀 <span style="color:#4CAF50;">Gopal Kushwaha</span> 🚀</h1>
+<p align="center"><strong>B.Tech 4th Year | Machine Learning | DSA | Open to Opportunities</strong></p>
+<br/>
+
+
 𝗛𝗶! 𝗜’𝗺 Gopal Kushwaha, a highly motivated B.Tech 4th-year student specializing in Machine Learning (ML) and Data Structures & Algorithms (DSA). I’m passionate about using technology to solve complex, real-world problems and continuously improving my skills through hands-on projects and challenges.
 
 🌟 What I Bring:

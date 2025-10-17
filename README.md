@@ -2,7 +2,7 @@
 
 <!-- Profile Header -->
 <h1 align="center">🚀 <span style="color:#4CAF50;">Gopal Kushwaha</span> 🚀</h1>
-<p align="center"><strong>B.Tech 4th Year | Machine Learning | DSA | Open to Opportunities</strong></p>
+<p align="center"><strong>ML Intern @RnpSoft | 500+ DSA Problems | Java, Python, SQL| Top 10 Hackathon Finalist | Aspiring AI/ML & Software Developer</strong></p>
 <br/>
 
 

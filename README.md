@@ -20,7 +20,8 @@ I’m a final-year Computer Science student focused on writing clean, optimized,
 
 Solved 500+ DSA problems (450+ on LeetCode) and actively participate in coding contests to sharpen logical thinking and performance under pressure.
 
-I document structured DSA explanations through <b>AlgoDiary</b> — focusing on clarity, edge cases, and optimization strategy.
+Alongside technical preparation, I run **AlgoDiary**, a structured documentation of daily LeetCode solutions where I break down logic, edge cases, and optimization strategies.  
+This reflects my ability to communicate complex ideas clearly and consistently.
 
 ---
 

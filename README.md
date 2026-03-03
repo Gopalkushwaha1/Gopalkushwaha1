@@ -1,11 +1,16 @@
 <!-- Premium Header -->
 <h1 align="center">
-  <span style="color:#2e7d32;">Gopal Kushwaha</span>
+  <span style="background: linear-gradient(90deg, #1F6FEB, #2e7d32);
+               -webkit-background-clip: text;
+               -webkit-text-fill-color: transparent;
+               font-weight: 700;">
+    Gopal Kushwaha
+  </span>
 </h1>
 
 <p align="center">
   <b>B.Tech CSE ’26</b> • ML Intern @ RnPSoft • 500+ DSA Problems Solved <br/>
-  Java • Python • SQL • Clean Code • Problem Solving
+  System Degine • Java • Python • SQL • Clean Code • Problem Solving
 </p>
 
 <p align="center">
